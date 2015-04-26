@@ -1,5 +1,5 @@
 # MCOS
-MCOS Website Repostory
+MCOS Website Repository
 
 Written by MCFunRide and christophersacchi.
 
