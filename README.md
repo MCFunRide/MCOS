@@ -1,6 +1,7 @@
 # MCOS
-MCOS Website Repostiry
+MCOS Website Repostory
 
-Coded by MCFunRide.
+Written by MCFunRide and christophersacchi.
 
-Username the same on MineCraft, CC Forums and GitHub
+MCFunRide: My username is the same on MineCraft, CC Forums and GitHub.
+christophersacchi: Hope you enjoy!
